@@ -1,0 +1,295 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ IComponent 
+	- _id = GUID e14c6d7e-2527-4591-8d47-f61912c80b65;
+	- _myState = 139264;
+	- _name = "FRDM_KL25Z";
+	- _objectCreation = "132039054720161779951113";
+	- _umlDependencyID = "2330";
+	- Stereotypes = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IHandle 
+			- _m2Class = "IStereotype";
+			- _filename = "System.sbs";
+			- _subsystem = "System";
+			- _class = "";
+			- _name = "Hardware";
+			- _id = GUID 42d9f207-88a4-441e-ac63-c1087be236ba;
+		}
+		{ IHandle 
+			- _m2Class = "IStereotype";
+			- _filename = "System.sbs";
+			- _subsystem = "System";
+			- _class = "";
+			- _name = "Software";
+			- _id = GUID 442ed9d9-68e4-4bb2-b63a-838edd198f56;
+		}
+	}
+	- _lastID = 2;
+	- Declaratives = { IRPYRawContainer 
+		- size = 5;
+		- value = 
+		{ IComponent 
+			- fileName = "ADC0";
+			- _id = GUID 4465b3a3-1d75-4c0b-a65e-e10ac6fa3543;
+		}
+		{ IComponent 
+			- fileName = "TPM0";
+			- _id = GUID db757bae-42ea-4511-acde-185bb3a3ba35;
+		}
+		{ IComponent 
+			- fileName = "GPIO";
+			- _id = GUID 6f402d72-a740-4a03-8db1-c017b46e9a16;
+		}
+		{ IComponent 
+			- fileName = "TPM2";
+			- _id = GUID e06d517f-73ae-4744-a1ed-e9ec23416f3a;
+		}
+		{ IComponent 
+			- fileName = "TPM1";
+			- _id = GUID 6b5ea975-1085-46b7-92cb-bad6f350a40b;
+		}
+	}
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID 92b35933-7c1f-4e64-a049-1e47e344731e;
+		- _myState = 73728;
+		- _name = "Files";
+		- _objectCreation = "132043654720161779491113";
+		- _umlDependencyID = "2093";
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 0;
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID ad06700d-2ce8-41b7-b0b0-8c5e6d65cfe8;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID ad06700d-2ce8-41b7-b0b0-8c5e6d65cfe8;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- _objectCreation = "132043854720161779471113";
+			- _umlDependencyID = "2901";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 8082dca5-3c9c-4431-baf3-e92f6d8b1a8b;
+					- _objectCreation = "132044054720161779451113";
+					- _umlDependencyID = "1585";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "D:\\Users\\guilherme\\Documents\\University\\Current Semester\\ES770\\model\\ES770\\DefaultComponent\\DefaultConfig\\DefaultComponent.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID c121e892-d0ed-483b-9e9f-728716b55bd0;
+					- _objectCreation = "132044254720161779431113";
+					- _umlDependencyID = "1585";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "D:\\Users\\guilherme\\Documents\\University\\Current Semester\\ES770\\model\\ES770\\DefaultComponent\\DefaultConfig\\MainDefaultComponent";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 57698c54-95e0-4c01-b69a-7389e5ac465d;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- _objectCreation = "132044454720161779411113";
+				- _umlDependencyID = "2892";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 9.8.2016::17:58:52;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- HandlesInMe = { IRPYRawContainer 
+		- size = 16;
+		- value = 
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Sources.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "Sources";
+			- _id = GUID f9623802-9e64-4088-b484-572be495c316;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "main.sbs";
+			- _subsystem = "Sources";
+			- _class = "";
+			- _name = "main";
+			- _id = GUID e415ef3e-1fba-4c75-8b90-6540a18a10f4;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "hal.sbs";
+			- _subsystem = "Sources";
+			- _class = "";
+			- _name = "hal";
+			- _id = GUID 9d76869b-fd0a-412e-a4db-424509c70211;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "util.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "util";
+			- _id = GUID 90a34774-303e-417c-99b9-4fd3fc96a8b0;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "controller.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "controller";
+			- _id = GUID 60410c4e-2ac1-4e32-a1e4-cad6240bf27b;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "driver.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "driver";
+			- _id = GUID ada89d98-a664-4a3e-b908-a40fe4d34c30;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "encoder.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "encoder";
+			- _id = GUID 63d37f8e-344f-4f34-9891-a642f221ada0;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "hmi.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "hmi";
+			- _id = GUID 7290b49b-2bd4-427f-a6a0-6898e7ec8a20;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "mcg.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "mcg";
+			- _id = GUID 0a54d37b-facf-4ff5-b353-bbe3e6d15b0d;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "target_definitions.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "target_definitions";
+			- _id = GUID 19f85f0f-5922-4e4a-8ee2-63d4eb7e14eb;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "uart.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "uart";
+			- _id = GUID 2fe8a6c2-bb4d-414f-8fa3-164702cc22a7;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "adc.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "adc";
+			- _id = GUID cd6597e3-99c9-442c-b253-88c58f045d8f;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "diagnostics.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "diagnostics";
+			- _id = GUID ca62b407-67ef-4809-8221-ea15f57f183e;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "ir_array.sbs";
+			- _subsystem = "Sources::hal";
+			- _class = "";
+			- _name = "ir_array";
+			- _id = GUID 0d42f7ce-ee80-4a51-8ef9-ed8bd9979e65;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Requirements.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "Requirements";
+			- _id = GUID 24b2c2cb-2b3a-42ab-976e-1909af601173;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "System.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "System";
+			- _id = GUID 07685dbe-5566-4a67-8dda-a128e6d2b138;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 9.14.2016::2:17:48;
+	- strongCGTime = 9.10.2016::3:0:26;
+}
+

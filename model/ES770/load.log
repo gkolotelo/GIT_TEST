@@ -1,0 +1,618 @@
+03, 25, 2017 (12:36:06): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypes.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading C:\Program Files (x86)\IBM\Rational\Rhapsody Modeler\7.5\Share\Properties\PredefinedTypesC++.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770.rpy
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770.rpy on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Sources.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Sources.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\main.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\main.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\main.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\hal.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\hal.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\util.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\util.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\util.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\controller.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\controller.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\controller.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\driver.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\driver.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\driver.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\encoder.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\encoder.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\encoder.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\hmi.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\hmi.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\hmi.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\mcg.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\mcg.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\mcg.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\target_definitions.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\target_definitions.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\target_definitions.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\uart.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\uart.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\uart.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\adc.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\adc.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\adc.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\diagnostics.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\diagnostics.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\diagnostics.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\ir_array.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\ir_array.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\ir_array.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\vsense.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\vsense.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\vsense.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\hal.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Sources.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Requirements.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Requirements.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Requirements.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\System.sbs
+03, 25, 2017 (12:36:06): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\System.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:06): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\System.sbs on Saturday, March 25, 2017 (12:36:06).-
+
+03, 25, 2017 (12:36:06): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\package_23.sbs
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\package_23.sbs on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\package_23.sbs on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\FRDM_KL25Z.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\FRDM_KL25Z.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\ADC0.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\ADC0.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\ADC0.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM0.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM0.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM0.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\GPIO.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\GPIO.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\GPIO.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM2.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM2.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM2.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM1.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM1.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\TPM1.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\FRDM_KL25Z.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Encoder_A.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Encoder_A.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Encoder_A.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\IR_Array.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\IR_Array.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\IR_Array.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Encoder_B.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Encoder_B.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Encoder_B.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Motor_A.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Motor_A.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Motor_A.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Motor_B.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Motor_B.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Motor_B.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Driver.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Driver.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Driver.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Regulator_5V.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Regulator_5V.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Opening rpy file \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Battery.cmp
+03, 25, 2017 (12:36:07): 
+ Started loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Battery.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Battery.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770_rpy\Regulator_5V.cmp on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Starting inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+
+Finished inUnit resolution phase
+
+
+03, 25, 2017 (12:36:07): 
+ Finished loading \\vmware-host\Shared Folders\Documents\University\Unicamp\ES770\model\ES770\ES770.rpy on Saturday, March 25, 2017 (12:36:07).-
+
+03, 25, 2017 (12:36:07): Starting checks of EventsBaseID conflicts
+03, 25, 2017 (12:36:07): Finished checks of EventsBaseID conflicts
+03, 25, 2017 (12:36:07): End Log

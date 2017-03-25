@@ -1,0 +1,138 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ IComponent 
+	- _ownerHandle = { IHandle 
+		- _m2Class = "IComponent";
+		- _filename = "FRDM_KL25Z.cmp";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "FRDM_KL25Z";
+		- _id = GUID e14c6d7e-2527-4591-8d47-f61912c80b65;
+	}
+	- _id = GUID 4465b3a3-1d75-4c0b-a65e-e10ac6fa3543;
+	- _myState = 8192;
+	- _name = "ADC0";
+	- _objectCreation = "132039254720161779931113";
+	- _umlDependencyID = "1842";
+	- Stereotypes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IHandle 
+			- _m2Class = "IStereotype";
+			- _filename = "System.sbs";
+			- _subsystem = "System";
+			- _class = "";
+			- _name = "Peripheral";
+			- _id = GUID bb504500-ea46-42af-ba7a-0debaef1a666;
+		}
+	}
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID 647a3faf-8f2e-4226-acb7-49c1c6a89af4;
+		- _myState = 73728;
+		- _name = "Files";
+		- _objectCreation = "132039454720161779911113";
+		- _umlDependencyID = "2093";
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 0;
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID 4dfe5125-4822-4ba3-b4f9-ec7303c179d3;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID 4dfe5125-4822-4ba3-b4f9-ec7303c179d3;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- _objectCreation = "132039654720161779891113";
+			- _umlDependencyID = "2910";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 75a15869-105c-4613-a6b7-a61e0370212d;
+					- _objectCreation = "132039854720161779871113";
+					- _umlDependencyID = "1603";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "D:\\Users\\guilherme\\Documents\\University\\Current Semester\\ES770\\model\\ES770\\PowerSupply_12V\\ADC0\\DefaultConfig\\ADC0.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID b981d666-d7a8-4114-ac23-4b630f771628;
+					- _objectCreation = "132040054720161779851113";
+					- _umlDependencyID = "1585";
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "D:\\Users\\guilherme\\Documents\\University\\Current Semester\\ES770\\model\\ES770\\PowerSupply_12V\\ADC0\\DefaultConfig\\MainADC0";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 45a1d1c3-8ab0-4658-bcba-3066ea21650e;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- _objectCreation = "132040254720161779831113";
+				- _umlDependencyID = "2892";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 9.10.2016::3:48:53;
+	- strongCGTime = 9.10.2016::3:48:53;
+}
+
